@@ -5,4 +5,4 @@
 <img src="https://github.com/sungbinland/resource/blob/main/icon/hotel.png?raw=true" width="20%"/>
 </p>
 
-<h5 align="center">오픈 준비중</h5>
+<h4 align="center">문의: ji@sungb.in</h4>
