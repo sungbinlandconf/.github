@@ -5,4 +5,4 @@
 <img src="https://github.com/sungbinland/resource/blob/main/icon/hotel.png?raw=true" width="20%"/>
 </p>
 
-<h6 align="center">오픈 예정</h6>
+<h5 align="center">오픈 준비중</h5>
