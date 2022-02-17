@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://www.sungbin.land/">성빈랜드</a></h1>
-<h3 align="center">안드로이드 코드랩 & 스터디</h3>
+<h3 align="center">Android/iOS 기술 기록터</h3>
 
 <p align="center">
 <img src="https://github.com/sungbinland/resource/blob/main/icon/hotel.png?raw=true" width="20%"/>
