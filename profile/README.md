@@ -5,4 +5,4 @@
 <img src="https://github.com/sungbinland/resource/blob/main/icon/hotel.png?raw=true" width="20%"/>
 </p>
 
-<h4 align="center">개장 완료 🥳🥳</h4>
+<h4 align="center">안드로이드의 최신 기술을 누구보다 빠르게 만나보세요!</h4>
