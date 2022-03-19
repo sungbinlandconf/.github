@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://www.sungbin.land/">성빈랜드</a></h1>
+<h1 align="center"><a href="https://sungbin.land/">성빈랜드</a></h1>
 <h3 align="center">Android/iOS 기술 기록터</h3>
 
 <p align="center">
