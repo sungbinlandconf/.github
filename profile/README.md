@@ -2,7 +2,7 @@
 <h3 align="center">안드로이드 놀이터</h3>
 
 <p align="center">
-<img src="https://github.com/sungbinland/resource/blob/main/icon/hotel.png?raw=true" width="20%"/>
+<img src="https://avatars.githubusercontent.com/u/96548964?s=200&v=4" width="20%"/>
 </p>
 
 <h4 align="center">안드로이드의 다양한 기술들과 프로젝트들이 올라옵니다.</h4>
