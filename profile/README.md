@@ -8,3 +8,11 @@
 <h4 align="center">안드로이드의 다양한 기술들과 프로젝트들이 올라옵니다.</h4>
 
 <h6 align="center">아이콘 저작권: <a href="https://iconscout.com/licenses#iconscout">Iconscout Digital License</a></h6>
+
+---
+
+### TODO
+
+1. 아이콘 변경
+2. 해커톤 주최
+3. 컨퍼런스 주최
